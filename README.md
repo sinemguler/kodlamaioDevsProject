@@ -1,16 +1,16 @@
 # kodlamaioDevsProject
 
-** Project Details **
+**Project Details**
 
-*** Sub-technologies of programming languages ​​can be added, deleted, updated and listed in the system. ***
+***Sub-technologies of programming languages ​​can be added, deleted, updated and listed in the system***
 
-* For example; *
+*For example;*
 
-- *** Java : Spring, JSP ***
+- ***Java : Spring, JSP***
 
-- *** C#: WPF, ASP.NET ***
+- ***C#: WPF, ASP.NET***
 
-- *** JavaScript : Vue, React ***
+- ***JavaScript : Vue, React***
 
-![](C:\Users\sinem\Pictures\Screenshots\kodlamaio.png)
+
 
