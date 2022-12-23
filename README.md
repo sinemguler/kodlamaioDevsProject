@@ -12,5 +12,5 @@
 
 - ***JavaScript : Vue, React***
 
-
+![](C:\Users\sinem\Pictures\Screenshots\kodlamaio.png)
 
