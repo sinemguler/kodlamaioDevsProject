@@ -12,5 +12,7 @@
 
 - ***JavaScript : Vue, React***
 
-![](C:\Users\sinem\Pictures\Screenshots\kodlamaio.png)
+![kodlamaio](https://user-images.githubusercontent.com/62998273/209347970-cc581fec-4be7-43a4-b581-f908724373ac.png)
+
+
 
